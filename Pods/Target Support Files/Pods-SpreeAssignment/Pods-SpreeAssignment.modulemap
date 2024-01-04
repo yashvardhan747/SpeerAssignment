@@ -1,0 +1,6 @@
+module Pods_SpreeAssignment {
+  umbrella header "Pods-SpreeAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
